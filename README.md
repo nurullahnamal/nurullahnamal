@@ -1,5 +1,5 @@
 ### Hi there 👋, NURULLAH NAMAL
-#### Software Test Engineer
+#### Software  Engineer
 ![Software Test Engineer](https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner.png)
 
 
