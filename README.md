@@ -16,7 +16,7 @@ During my studies, I took various courses such as C#, (Oracle) SQL, Mobile Progr
 # 📊 GitHub Stats:
 !(https://github-readme-stats.vercel.app/api?username=Nurullah Namal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nurullah Namal&theme=dark&hide_border=false)<br/>
-![GitHub streak stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullah Namal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullah Namal)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=dwadwa)  
 
 ---
