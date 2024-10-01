@@ -1,5 +1,6 @@
 ### Hi there 👋, NURULLAH NAMAL
 #### Software  Developer
+![](https://komarev.com/ghpvc/?username=nurullahnamal&color=blue)
 ![Software Test Engineer](https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner.png)
 
 
