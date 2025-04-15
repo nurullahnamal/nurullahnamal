@@ -1,2 +1,2 @@
-### Hi there 👋, NURULLAH NAMAL
+### Hi there 👋 NURULLAH NAMAL
 #### Network Engineer
